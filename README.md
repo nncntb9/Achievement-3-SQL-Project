@@ -6,5 +6,12 @@ Rockbuster Stealth LLC i s a movie rental company that used to have stores aroun
 1. Acquire a good understanding of the various data points.
 2. Helps other departments, from inventory to customer insights, with data-related queries
 3. Help with the launch strategy for the new online video service.
+## Data
+1.  film inventory
+2.  customers, and
+3.  payments
+The data can be found [here](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) 
 ## Tools
-Use SQL and Excel as is neccessary.
+Use SQL, Tableu, and Excel as is neccessary.
+## File/folder description
+The repository has SQl queries and results (Exercise 1-10) for key business questions for Rockbuster Stealth. 
