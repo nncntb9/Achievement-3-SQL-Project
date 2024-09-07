@@ -10,6 +10,7 @@ Rockbuster Stealth LLC i s a movie rental company that used to have stores aroun
 1.  film inventory
 2.  customers, and
 3.  payments
+
 The data can be found [here](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) 
 ## Tools
 Use SQL, Tableu, and Excel as is neccessary.
