@@ -14,5 +14,6 @@ Rockbuster Stealth LLC i s a movie rental company that used to have stores aroun
 The data can be found [here](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) 
 ## Tools
 Use SQL, Tableu, and Excel as is neccessary.
-## File/folder description
+## Output
 The repository has SQl queries and results (Exercise 1-10) for key business questions for Rockbuster Stealth. 
+View vizualization [here](https://public.tableau.com/app/profile/innocent.bayai/viz/Ex3_10Visualizations/Top10Countries)
