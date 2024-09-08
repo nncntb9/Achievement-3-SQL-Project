@@ -16,5 +16,16 @@ The data can be found [here](https://www.postgresqltutorial.com/wp-content/uploa
 Use SQL, Tableu, and Excel as is neccessary.
 ## Output
 The repository has SQl queries and results (Exercise 1-10) for key business questions for Rockbuster Stealth as detailed hereunder:
-
+1. Ex-3.1-Data-Immersion_Intro-to-Retional-Databases
+2. Answers-3.2 focuses on Data Storage & Structure
+3. Answers-Ex-3.3 looks at SQL for Data Analysts
+4. Answers-3.4 is about Database Querying in SQL
+5. Ex-3.5 is on Data Filtering
+6. Answers-3.6 presents Summarizing and Cleaning Data in SQL
+7. ANswers-3.7 shows Joining of Tables in SQL
+8. Answers-3.8 is on Performing subquiries
+9. Answers-3.9 presents Common Table Expressions
+10. Ex-3.10 focuses on Presenting SQL Results
+11. Rockbuster-Project shows the summary of all process for the Rockbuster Project
+12. Rockbuster-Stealth-Data-Dictionary shows the data dictionary for Rockbuster Project.
 View vizualization [here](https://public.tableau.com/app/profile/innocent.bayai/viz/Ex3_10Visualizations/Top10Countries)
