@@ -28,4 +28,5 @@ The repository has SQl queries and results (Exercise 1-10) for key business ques
 10. Ex-3.10 focuses on Presenting SQL Results
 11. Rockbuster-Project shows the summary of all process for the Rockbuster Project
 12. Rockbuster-Stealth-Data-Dictionary shows the data dictionary for Rockbuster Project.
+
 View vizualization [here](https://public.tableau.com/app/profile/innocent.bayai/viz/Ex3_10Visualizations/Top10Countries)
