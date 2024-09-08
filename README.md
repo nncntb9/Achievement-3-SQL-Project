@@ -15,5 +15,6 @@ The data can be found [here](https://www.postgresqltutorial.com/wp-content/uploa
 ## Tools
 Use SQL, Tableu, and Excel as is neccessary.
 ## Output
-The repository has SQl queries and results (Exercise 1-10) for key business questions for Rockbuster Stealth. 
+The repository has SQl queries and results (Exercise 1-10) for key business questions for Rockbuster Stealth as detailed hereunder:
+
 View vizualization [here](https://public.tableau.com/app/profile/innocent.bayai/viz/Ex3_10Visualizations/Top10Countries)
